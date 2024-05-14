@@ -1,0 +1,9 @@
+{
+  "name": "calc_react",
+  "lockfileVersion": 3,
+  "requires": true,
+  "packages": {},
+  "dependencies": {
+    "react-native-paper": "^5.12.3"
+  }
+}
